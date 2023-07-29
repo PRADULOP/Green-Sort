@@ -44,10 +44,6 @@ $ pip install tkinter
 ```shell
 $ python ./main.py      
 ```
-**5.** Run stremlit app
-```shell
-$ streamlit run .\imgpredict.py    
-```
 ## How to configure mobile app
 **1.** Before running your project,make sure to run the following commands:
 
