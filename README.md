@@ -42,6 +42,9 @@ $ pip install opencv-python
 ```shell
 $ pip install tkinter     
 ```
+```shell
+$ pip install cv2    
+```
 **4.** Execute prediction model
 ```shell
 $ python ./main.py      
