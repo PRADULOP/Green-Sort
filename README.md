@@ -1,7 +1,7 @@
 # Green-Sort
 Waste Classification Using Deep Learning
 
-![](../master/Resources/abc.png)
+![Logo](../master/Resources/abc.png)
 
 
 ## How to configure web app
