@@ -37,6 +37,9 @@ $ pip install tensorflow
 ```shell
 $ pip install opencv-python     
 ```
+```shell
+$ pip install tkinter     
+```
 **4.** Execute prediction model
 ```shell
 $ python ./main.py      
