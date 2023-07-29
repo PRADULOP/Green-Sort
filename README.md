@@ -49,4 +49,6 @@ $ pip install cv2
 ```shell
 $ python ./main.py      
 ```
+# Model Download Link
+         https://drive.google.com/file/d/1ibOHcW0NQxFlDT_ghPf9HGKqZ6o0Lq6f/view?usp=sharing
 
