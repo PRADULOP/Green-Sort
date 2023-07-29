@@ -6,7 +6,7 @@ Waste Classification Using Deep Learning
 **1.** Clone git repo
 
 ```shell
-$ git clone https://github.com/PRADULOP/Green-Sort.git
+$ git clone "https://github.com/PRADULOP/Green-Sort.git"
 ```
 
 **2.** Create virtual env
@@ -44,12 +44,3 @@ $ pip install tkinter
 ```shell
 $ python ./main.py      
 ```
-## How to configure mobile app
-**1.** Before running your project,make sure to run the following commands:
-
-
-1.flutter pub get
-
-2.flutter packages pub run build_runner build --delete-conflicting-outputs
-
-This creates the generated code necessary for the project to run
