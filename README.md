@@ -6,7 +6,7 @@ Waste Classification Using Deep Learning
 **1.** Clone git repo
 
 ```shell
-$ git clone "https://github.com/PRADULOP/Green-Sort.git"
+$ git clone https://github.com/PRADULOP/Green-Sort.git
 ```
 
 **2.** Create virtual env
