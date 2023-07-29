@@ -1,6 +1,8 @@
 # Green-Sort
 Waste Classification Using Deep Learning
 
+![Optional Text](../master/Resource/image.png)
+
 
 ## How to configure web app
 **1.** Clone git repo
