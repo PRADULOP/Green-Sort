@@ -4,7 +4,7 @@ Waste Classification Using Deep Learning
 ![Logo](./Resources/abc.png)
 
 
-## How to configure web app
+## Installation
 **1.** Clone git repo
 
 ```shell
